@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# export files
+control-pc-with-controller/
+control-pc-with-controller.zip
+
 # Distribution / packaging
 .Python
 build/
