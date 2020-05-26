@@ -152,3 +152,7 @@ if __name__ == '__main__':
     activate_thread = threading.Thread(target=toggle_activate)
     activate_thread.start()
     main()
+
+
+        if x:
+            then y
